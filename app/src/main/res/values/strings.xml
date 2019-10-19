@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">Chore</string>
     <string name="app_title">Record of Jobs</string>
-    <string name="enter_a_chore">Enter a chore</string>
-    <string name="assigned_by">Assigned by</string>
-    <string name="assigned_to">Assigned to</string>
+    <string name="enter_a_chore">ဆရာဝန်နာမည်</string>
+    <string name="assigned_by">အထူးပြုဆွေးနွေးနိုင်သောအကြောင်းအရာများ</string>
+    <string name="assigned_to">အရည်အချင်းနှင့်အတွေ့အကြုံများ</string>
     <string name="save">Save Chore</string>
     <string name="add_chore">Add chore</string>
     <string name="edit_chore">Edit Chore</string>

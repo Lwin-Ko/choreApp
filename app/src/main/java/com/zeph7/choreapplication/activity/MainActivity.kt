@@ -51,9 +51,9 @@ class MainActivity : AppCompatActivity() {
         for (c in choreList!!.iterator()) {
 
             val chore = Chore()
-            chore.choreName = "${c.choreName}"
-            chore.assignedBy = "assigned by : ${c.assignedBy}"
-            chore.assignedTo = "assigned to : ${c.assignedTo}"
+            chore.choreName = "ဆရာဝန်နာမည် :  ${c.choreName}"
+            chore.assignedBy = "အထူးပြုဆွေးနွေးနိုင်သောအကြောင်းအရာများ : ${c.assignedBy}"
+            chore.assignedTo = "အရည်အချင်းနှင့်အတွေ့အကြုံများ : ${c.assignedTo}"
             chore.id = c.id
             chore.showHumanDate(c.timeAssigned!!)
 
